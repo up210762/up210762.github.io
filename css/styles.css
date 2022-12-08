@@ -82,11 +82,11 @@ img {
 }
 
 #portada {
-    background: url("../../MyWeb/Imagenes/Editores/Portada.png");
+    background: url("../Imagenes/Editores/Portada.png");
 }
 
 #portada-back {
-   background: url("../../MyWeb/Imagenes/Editores/Editores.png");
+   background: url("../Imagenes/Editores/Editores.png");
 }
 
 #portada, #portada-back {
